@@ -10,8 +10,8 @@
 <p dir="auto">علی که به تازگی طراحی وب را شروع کرده است قصد دارد برای تصاویری که روی صفحه وب قرار داده است یک هاور زیبا که حاوی عنوان آن تصویر می‌باشد طراحی کند اما چون هنوز به صورت کامل CSS را نیاموخته است به کمک شما نیاز دارد تا بتواند این کار را به نحو احسن انجام دهد.</p>
 <h1 dir="auto" id="پروژه-اولیه">پروژه اولیه<a class="anchorLink" href="#پروژه-اولیه">🔗</a></h1>
 <p dir="auto">پروژه اولیه را از
- <a href="/contest/assignments/53486/download_problem_initial_project/182389/" target="_blank">این لینک</a> 
-دانلود کنید.</p>
+<p dir="auto">پروژه اولیه در همین صفحه با عنوان question1 موجود است</p>
+
 <details class="green" dir="auto">
 <summary dir="auto"> ساختار فایل‌ها </summary>
 <div class="code-toolbar"><pre class="code-block language-none" dir="ltr" tabindex="0"><code data-filename="undefined" class="language-none">image-hover
@@ -56,9 +56,8 @@
 <div class="description-html" id="description_html-183309"><p dir="auto">ظاهر کلی برنامه بدین صورت است:</p>
 <p dir="auto"><img src="https://s29.picofile.com/file/8463783334/graph.gif" alt="ظاهر برنامه" style="cursor: pointer;"></p>
 <h1 dir="auto" id="پروژه-اولیه">پروژه اولیه<a class="anchorLink" href="#پروژه-اولیه" style="visibility: hidden;">🔗</a></h1>
-<p dir="auto">پروژه اولیه را از
- <a href="/contest/assignments/54144/download_problem_initial_project/183309/" target="_blank">این لینک</a> 
-دانلود کنید.</p>
+<p dir="auto">پروژه اولیه در همین صفحه با عنوان question2 موجود است</p>
+
 <details class="green" dir="auto">
 <summary dir="auto"> ساختار فایل‌ها </summary>
 <div class="code-toolbar"><pre class="code-block language-none" dir="ltr" tabindex="0"><code data-filename="undefined" class="language-none">graph
@@ -109,15 +108,8 @@
 
 
 <h1>سوال شماره 3</h1>
-
-<div class="description-html" id="description_html-182386"><p dir="auto">ظاهر کلی برنامه به صورت زیر است:</p>
-<p dir="auto"><img src="https://s29.picofile.com/file/8462942750/formQuera.gif" alt="تصویر خروجی" style="cursor: pointer;"></p>
-<h1 dir="auto" id="توضیحات">توضیحات<a class="anchorLink" href="#توضیحات">🔗</a></h1>
-<p dir="auto">تیم کوئرا در حال طراحی یک تسک منیجر برای مدیریت کردن وظایف افراد است و یکی از بخش‌های این پروژه صفحه ثبت‌نام این تسک منیجر می‌باشد که بخش اصلی طراحی آن انجام شده است و فقط قسمت اعتبار سنجی آن کامل نشده است که به کمک شما نیاز دارد تا به اتمام برسد.</p>
 <h1 dir="auto" id="پروژه-اولیه">پروژه اولیه<a class="anchorLink" href="#پروژه-اولیه" style="visibility: hidden;">🔗</a></h1>
-<p dir="auto">پروژه اولیه را از
- <a href="/contest/assignments/53486/download_problem_initial_project/182386/" target="_blank">این لینک</a> 
-دانلود کنید.</p>
+<p dir="auto">پروژه اولیه در همین صفحه با عنوان question3 موجود است</p>
 <details class="green" dir="auto">
 <summary dir="auto"> ساختار فایل‌ها </summary>
 <div class="code-toolbar"><pre class="code-block language-none" dir="ltr" tabindex="0"><code data-filename="undefined" class="language-none">quera-form
