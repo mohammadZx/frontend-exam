@@ -138,3 +138,79 @@
 <li>شما تنها مجاز به اعمال تغییرات در فایل script.js هستید فلذا همین فایل را به شماره ارائه شده به صورت یک فایل زیپ ارسال نمایید</li>
 </ul>
 </div>
+
+<hr>
+
+
+
+<h1>سوال شماره 4</h1>
+
+<div class="description-html" id="description_html-139932"><p dir="auto"><strong>JavaScript</strong></p>
+<ul dir="auto">
+<li>DOM Manipulation</li>
+<li>Event Handling</li>
+<li>Array Methods (forEach, filter, map, ...)</li>
+<li>Async/Await</li>
+<li>Promise</li>
+<li>Fetch API</li>
+<li>Storage Management (cookie, localStorage, ...)</li>
+</ul>
+<hr dir="auto">
+<p dir="auto">شرکت Mockstar به تازگی با توجه به آمارهایی که از بازیکنان جمع‌آوری کرده،
+متوجه شده ‌است که در طی چند ماه گذشته، تعداد بازیکنان ایرانی روبه‌رشد بوده و به‌شدت زیاد شده است؛
+بنابراین تصمیم گرفته است تا از زبان فارسی در محصولات خود پشتیبانی کند.
+حال از پمبه خواسته شده است تا این کار را برای سایت معرفی بازی‌ها انجام دهد.</p>
+<p dir="auto">این نکته را در نظر بگیرید که زمانی که کاربر دوباره وارد صفحه می‌شود،
+باید زبان سایت و بازی‌ای که آخرین بار مشاهده کرده، بارگذاری شود.
+مدیر پمبه از او خواسته است که در کد خود فقط از <code dir="ltr">localStorage</code> برای ذخیره‌سازی اطلاعات کاربران استفاده کند.</p>
+<h2 dir="auto" id="توضیحات-سوال">توضیحات سوال<a class="anchorLink" href="#توضیحات-سوال" style="visibility: hidden;">🔗</a></h2>
+<details class="green" dir="auto">
+<summary dir="auto">تصویر خروجی نمونه</summary>
+<p dir="auto"><img src="https://codestar.s3.ir-thr-at1.arvanstorage.com/challenge-07.png" alt="خروجی نمونه" style="cursor: pointer;"></p>
+</details>
+<p dir="auto">می‌توانید برای بررسی دقیق‌تر نتیجۀ نهایی،
+<a href="https://codestar.s3.ir-thr-at1.arvanstorage.com/challenge-07.mp4" target="_blank">این فیلم</a>
+را مشاهده کنید.</p>
+<h2 dir="auto" id="پروژه-اولیه">پروژه اولیه<a class="anchorLink" href="#پروژه-اولیه" style="visibility: hidden;">🔗</a></h2>
+<p dir="auto">پروژه اولیه در همین صفحه با عنوان question4 موجود است</p>
+<details class="blue" dir="auto" open="">
+<summary dir="auto">ساختار فایل‌ها</summary>
+<div class="code-toolbar"><pre class="code-block language-none" dir="ltr" tabindex="0"><code data-filename="undefined" class="language-none">initial-project-05.zip
+├── data
+│   └── games.json
+├── fonts
+│   ├── shabnam.woff
+│   └── shabnam-bold.woff
+├── icons
+│   └── languages.svg
+├── images
+│   ├── dota2.jpg
+│   ├── god-of-war.jpg
+│   ├── horizon.jpg
+│   └── rdr2.jpg
+├── languages
+│   ├── en.json
+│   └── fa.json
+├── dynamic.js
+├── index.html
+└── static.css</code></pre><div class="toolbar"><div class="toolbar-item"><span>Plain text</span></div><div class="toolbar-item"><button class="copy-to-clipboard-button" type="button" data-copy-state="copy"><span>Copy</span></button></div></div></div></details>
+<details class="pink" dir="auto" open="">
+<summary dir="auto">راه‌اندازی پروژه</summary>
+<ul dir="auto">
+<li>ابتدا پروژۀ اولیه را دانلود و از حالت فشرده خارج کنید.</li>
+<li>سپس فایل <code dir="ltr">index.html</code> را در مرورگر خود باز کنید.</li>
+</ul>
+</details>
+<h2 dir="auto" id="خواسته‌های-مسئله">خواسته‌های مسئله<a class="anchorLink" href="#خواسته‌های-مسئله" style="visibility: hidden;">🔗</a></h2>
+<ul dir="auto">
+<li>استفاده از اطلاعات فایل <code dir="ltr">data/games.json</code> برای تغییر نام و عکس بازی‌ها</li>
+<li>استفاده از اطلاعات فایل <code dir="ltr">data/games.json</code> برای تغییر رنگ دکمۀ موجود در <code dir="ltr">nav</code></li>
+<li>استفاده از اطلاعات فایل‌های موجود در پوشۀ <code dir="ltr">languages</code> برای تغییر زبان سایت</li>
+<li>افزودن صفات <code dir="ltr">lang</code>و <code dir="ltr">dir</code> به المان <code dir="ltr">html</code>، متناسب با زبان سایت</li>
+<li>مشخص‌کردن شمارۀ بازی فعلی با استفاده از کلاس <code dir="ltr">active</code></li>
+</ul>
+<h2 dir="auto" id="نکات">نکات<a class="anchorLink" href="#نکات" style="visibility: hidden;">🔗</a></h2>
+<ul dir="auto">
+<li>شما تنها مجاز به تغییر در فایل <code dir="ltr">dynamic.js</code> هستید. تغییرات در باقی فایل‌ها نادیده گرفته می‌شود.</li>
+<li>فایل پروژه را به شماره ارائه شده ارسال نمایید</li>
+</ul>
